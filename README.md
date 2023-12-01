@@ -1,2 +1,2 @@
 ## Project 1: Countdown Timer
-![ana-de-armas](https://github.com/nafisreza/vanilla-js-challenge/assets/68966649/c98e7c37-6dd6-48bb-950d-3e81bbe1ff51)
+![project-1-demo](https://github.com/nafisreza/vanilla-js-challenge/assets/68966649/8f6c1ec5-7481-438d-95de-b19b9d0a2a93)
